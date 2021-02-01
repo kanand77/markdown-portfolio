@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Profile Picture](https://pbs.twimg.com/profile_images/1090789596303110144/RXJvniJ2_400x400.jpg)
